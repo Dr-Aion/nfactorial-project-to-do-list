@@ -1,0 +1,64 @@
+body {
+  background-color: #F0F0F0;
+}
+.App {
+  font-family: 'Inter', sans-serif;
+  height: 100vh;
+}
+h4 {
+  font-weight: 700;
+}
+button {
+  width: 70px;
+  height: 40px;
+  background-color:#081E346B;
+  border-radius: 40%;
+  border-style: none;
+}
+
+.add-button {
+  background-color: #081E34;
+  border-radius: 80%;
+  width: 50px;
+  height: 50px;
+}
+
+h5 {
+  font-weight: 700;
+}
+label {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.horizontal-devider {
+  width: auton;
+  height: 2px;
+  background-color: #081E346B;
+}
+
+.companyName {
+  font-size: 14;
+  font-weight: 700;
+}
+
+.credits{
+  font-size: 14;
+  font-weight: 500;
+  color: #081E34;
+  opacity: 0.5;
+}
+
+.modal_window {
+  width: 268px;
+  height: 234px;
+  background-color: #E4E6E7;
+  border-radius: 12px;
+}
+
+.input_text {
+  width: 236px;
+  height: 120px;
+  border-radius: 12px;
+  border: none;
+}
