@@ -10,9 +10,9 @@ h4 {
 }
 button {
   width: 70px;
-  height: 40px;
+  height: 45px;
   background-color:#081E346B;
-  border-radius: 40%;
+  border-radius: 100%;
   border-style: none;
 }
 
@@ -54,6 +54,14 @@ label {
   height: 234px;
   background-color: #E4E6E7;
   border-radius: 12px;
+}
+
+.delete_modal_window {
+  width: 200px;
+  height: 40px;
+  background-color: #E4E6E7;
+  border-radius: 12px;
+  text-align: center;
 }
 
 .input_text {
